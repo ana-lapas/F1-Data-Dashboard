@@ -1,0 +1,24 @@
+{
+  "name": "f1-data-dashboard",
+  "version": "1.0.0",
+  "description": "uma plataforma de análise estatística interativa da Fórmula 1, focada em transformar dados históricos e de desempenho em visualizações claras",
+  "homepage": "https://github.com/ana-lapas/F1-Data-Dashboard#readme",
+  "bugs": {
+    "url": "https://github.com/ana-lapas/F1-Data-Dashboard/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-lapas/F1-Data-Dashboard.git"
+  },
+  "license": "MIT",
+  "author": "Ana Paula Leão",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
